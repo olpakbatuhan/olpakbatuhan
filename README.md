@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @olpakbatuhan
-- 👀 I’m interested in Blockchain projects
+
 
 <!---
 olpakbatuhan/olpakbatuhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
